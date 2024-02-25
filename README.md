@@ -15,8 +15,6 @@ We utilize a dataset provided by [Dataak](https://dataak.com/) comprising inform
 - **follower_count**: Number of followers of the user.
 - **following_count**: Number of accounts the user is following.
 - **is_business**: Indicator for whether the user account is associated with a business.
-- **is_verified**: Indicator for whether the user account is verified.
-- **is_private**: Indicator for whether the user account is private.
 
 The age column represents discrete age categories rather than continuous variables.
 
